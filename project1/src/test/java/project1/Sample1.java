@@ -8,6 +8,7 @@ System.out.println("Master branch commit C3");
 System.out.println("Branch2 commit C4");
 System.out.println("GitHub commit C6");
 System.out.println("GitHub commit C7");
+System.out.println("Third GitHub commit C8");
 
 	}
 
