@@ -6,6 +6,8 @@ public class Sample1 {
 		System.out.println("Test Project");
 System.out.println("Master branch commit C3");
 System.out.println("Branch2 commit C4");
+System.out.println("GitHub commit C6");
+
 	}
 
 }
